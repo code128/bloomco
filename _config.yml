@@ -1,0 +1,47 @@
+url: https://y7kim.github.io
+baseurl:
+
+# Site settings
+title: Bloomco Heavy Industries
+email: joshbloom@bloomcoheavyindustries.us
+description: "We provide consulting services to product focused organizations. Specializing in quick turn design prototyping to answer early stage questions."
+
+
+# Team names, titles and social links
+people:
+- name: The Right Person
+  pic: 2
+  position: Consultant
+
+- name: Joshua Bloom
+  pic: 1
+  position: Founder
+  social:
+    - title: twitter
+      url: "https://twitter.com/joshbloom"
+
+- name: The Other Right Person
+  pic: 2
+  position: Consultant
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket 
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: San Francisco, CA 94127
+
+# Build settings
+markdown: kramdown
+permalink: pretty
